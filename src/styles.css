@@ -59,13 +59,17 @@ body{
 }
 
 .account-testimonial {
-    margin-bottom: 150px !important;
+    margin-bottom: 250px !important;
 }
 
 .margin{
-    margin-top: 100px;
+    margin-top: 150px;
 }
 
 .float {
     float: right !important;
+}
+
+.margin-top{
+    margin-top: -70px;
 }
